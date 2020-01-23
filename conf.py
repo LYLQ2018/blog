@@ -15,14 +15,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "lylq博客"
+site_name = "lylq2018"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
+site_build_date = "2018-12-18T16:51+08:00"
+author = "lylq"
+email = "1138222742@qq.com"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+description = "读万卷书"
+key_words = ['Maverick', 'lylq', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -31,9 +31,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "读万卷书",
+        "url": "https://www.lylq2018.cn",
+        "brief": "lylq的空间。"
     }
 ]
 nav = [
