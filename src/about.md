@@ -2,14 +2,9 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2019/12/28 17:26:00
 status: publish
-author: AlanDecode
-categories: 
-  - Maverick
-  - Dev
-tags: 
-  - theme
+author: lylq
 ---
 
 ## 本人简述
@@ -23,7 +18,6 @@ tags:
 现在使用M
 ### 一、国家地理（中文版）
 这是一个非常优秀，可以<mark>开拓视野的好杂志</mark>，我一直订阅，从中获取灵感。
-
 ### 二、图解 
 **将观点可视化的表达方式**
 与斗图界、图解界有着同气连枝，妙不可言的关系。
@@ -35,7 +29,4 @@ tags:
 总有更多的人、更多事出现……
 ## 联系
 邮箱联系：1138222742@qq.com（可能会在晚上回复）
-[更新记录](http://resume.qmail.com/1138222742/hGUsbGf7g2I)
-[英语记录](http://lylq2018.cn/blog)
 
-Email:1138222742@qq.com
