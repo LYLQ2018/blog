@@ -11,7 +11,7 @@ archives_page_size = 20
 template="Kepler"
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "lylq2018/blog"
+    "repo": "lylq2018/blog@gh-pages"
 }
 
 # 站点设置
