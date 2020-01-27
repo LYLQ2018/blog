@@ -5,35 +5,35 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>/blog/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-06-28</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
 </url>
 
 <url>
-    <loc>/blog/archives/English3/</loc>
+    <loc>/archives/English3/</loc>
     <lastmod>2019-12-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/blog/archives/English2/</loc>
+    <loc>/archives/English2/</loc>
     <lastmod>2019-12-25</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/blog/archives/English/</loc>
+    <loc>/archives/English/</loc>
     <lastmod>2019-12-24</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/blog/archives/濑户内海艺术寻宝之旅/</loc>
+    <loc>/archives/濑户内海艺术寻宝之旅/</loc>
     <lastmod>2019-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
