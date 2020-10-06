@@ -535,13 +535,11 @@ ul li {
 }
 .post-list-container .post-inner .post {
   margin: 30px;
-  border-radius: 4px;
   padding: 28px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  transition: all 0.3s;
 }
 .post-list-container .post-inner .post .post-left {
   width: 100%;
@@ -579,9 +577,6 @@ ul li {
 .post-list-container .post-inner .post .post-left .post-info .post-tag {
   font-size: 12px;
   margin-left: 10px;
-}
-.post-list-container .post-inner .post:hover {
-  transform: scale(1.012);
 }
 .post-list-container .post-inner .post .post-feature-image {
   width: 200px;
