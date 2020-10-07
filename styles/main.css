@@ -540,6 +540,7 @@ ul li {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  background: #f5f5f5;
 }
 .post-list-container .post-inner .post .post-left {
   width: 100%;
@@ -1800,7 +1801,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-theme-color-second {
-          background: #f8f8f8!important;
+          background: #ffffff!important;
         }
         
         .gt-bg-content-color-first {
@@ -1824,7 +1825,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-second {
-          color: #f8f8f8!important;
+          color: #ffffff!important;
         }
         
         .gt-c-content-color-first {
@@ -1890,6 +1891,6 @@ code::-webkit-scrollbar-thumb:hover {
         
         .search-input {
           color: #5f6169!important;
-          background-color: #f8f8f8!important;
+          background-color: #ffffff!important;
         }
          
