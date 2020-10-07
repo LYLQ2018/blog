@@ -648,9 +648,6 @@ ul li {
 }
 .post-container .post-detail {
   flex: 1;
-  padding: 24px 32px;
-  width: 1000px;
-  border-radius: 4px;
 }
 .post-container .post-detail .post-title {
   font-size: 26px;
