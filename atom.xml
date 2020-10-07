@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lylq2018.github.io</id>
     <title>意博藏书</title>
-    <updated>2020-10-07T05:17:21.987Z</updated>
+    <updated>2020-10-07T05:21:24.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lylq2018.github.io"/>
     <link rel="self" href="https://lylq2018.github.io/atom.xml"/>
@@ -23,10 +23,6 @@
         <link href="https://lylq2018.github.io/post/guan-yu-yi-bo-cang-shu/">
         </link>
         <updated>2020-10-05T13:39:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>一周更新书目</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>一周更新书目</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[藏书的更新计划]]></title>
@@ -65,7 +61,7 @@
         <updated>2020-09-29T13:33:44.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比利时装订]]></title>
+        <title type="html"><![CDATA[比利时秘密装订]]></title>
         <id>https://lylq2018.github.io/post/ha-ha-he/</id>
         <link href="https://lylq2018.github.io/post/ha-ha-he/">
         </link>
@@ -77,9 +73,5 @@
         <link href="https://lylq2018.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！</p>
-]]></content>
     </entry>
 </feed>
