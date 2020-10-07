@@ -532,6 +532,7 @@ ul li {
 .post-list-container .post-inner {
   min-width: 1000px;
   max-width: 1000px;
+  background: #f5f5f5;
 }
 .post-list-container .post-inner .post {
   margin: 30px;
@@ -540,7 +541,6 @@ ul li {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background: #f5f5f5;
 }
 .post-list-container .post-inner .post .post-left {
   width: 100%;
