@@ -629,9 +629,7 @@ ul li {
     margin-left: 10px;
   }
   .post-list-container .post-inner .post .post-feature-image {
-    width: 0;
-    height: 0;
-    flex-basis: 0;
+    flex-basis: 50%;
     flex-shrink: 0;
     margin-left: 0;
     border-radius: 2px;
