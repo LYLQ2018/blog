@@ -692,15 +692,6 @@ ul li {
 }
 .archives-container {
   padding: 32px;
-  display: flex;
-  flex-direction: column;
-}
-.archives-container .year {
-  font-size: 34px;
-  font-weight: bold;
-  margin-top: 16px;
-  margin-bottom: 16px;
-  align-self: start;
 }
 .archives-container .post {
   float: left;
