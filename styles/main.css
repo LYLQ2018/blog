@@ -790,11 +790,6 @@ ul li {
     max-width: 90% !important;
   }
 }
-@media (max-width: 465px) {
-  .flink-info-desc {
-    display: none;
-  }
-}
 #gridea-search-form .search-input {
   position: relative;
   left: -2px;
