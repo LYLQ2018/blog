@@ -693,10 +693,6 @@ ul li {
 .archives-container {
   padding: 32px;
 }
-.archives-container .post {
-  float: left;
-  padding: 16px 0;
-}
 .archives-container .post .post-title {
   float: left;
   font-size: 16px;
