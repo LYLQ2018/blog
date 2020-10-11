@@ -809,6 +809,9 @@ ul li {
 .no-result {
   text-align: center;
 }
+.bbs-page {
+  padding: 24px 32px;
+}
 /*
 
 Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmail.com>
