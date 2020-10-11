@@ -696,9 +696,10 @@ ul li {
 .archives-container .post .post-title {
   float: left;
   font-size: 16px;
-  margin: 15px 10px;
+  margin: 5px 5px;
   background-color: rgba(20, 153, 196, 0.125);
   border-radius: 15px;
+  padding: 12px;
 }
 .archives-container .post .post-title small {
   float: left;
