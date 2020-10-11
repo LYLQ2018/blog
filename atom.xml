@@ -2,20 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lylq2018.github.io</id>
     <title>意博藏书</title>
-    <updated>2020-10-11T15:02:07.294Z</updated>
+    <updated>2020-10-11T15:07:05.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lylq2018.github.io"/>
     <link rel="self" href="https://lylq2018.github.io/atom.xml"/>
     <logo>https://lylq2018.github.io/images/avatar.png</logo>
     <icon>https://lylq2018.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 意博藏书</rights>
-    <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://lylq2018.github.io/post/ce-shi/</id>
-        <link href="https://lylq2018.github.io/post/ce-shi/">
-        </link>
-        <updated>2020-10-06T15:55:36.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[通知：意博藏书更新计划]]></title>
         <id>https://lylq2018.github.io/post/guan-yu-yi-bo-cang-shu/</id>
