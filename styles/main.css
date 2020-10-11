@@ -736,19 +736,6 @@ ul li {
 .about-page {
   padding: 24px 32px;
 }
-.site-footer {
-  font-size: 12px;
-  text-align: center;
-  padding: 24px;
-}
-.site-footer .social-container {
-  padding-bottom: 16px;
-}
-.site-footer .social-container i {
-  padding-left: 10px;
-  padding-right: 10px;
-  font-size: 20px;
-}
 .friend-box {
   float: left;
   max-width: calc(50% - 20px);
